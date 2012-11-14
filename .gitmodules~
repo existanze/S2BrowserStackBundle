@@ -1,3 +1,0 @@
-[submodule "Browserstack/ext"]
-	path = Browserstack/ext
-	url = git://github.com/serbanghita/Mobile-Detect.git
