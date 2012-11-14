@@ -8,7 +8,7 @@
  *       */
 namespace Browserstack;
 
-require_once __DIR__ . '/../ext/Mobile_Detect/Mobile_Detect.php';
+require_once __DIR__ . '/../../ext/Mobile_Detect/Mobile_Detect.php';
 
 class MobileDetect extends \Mobile_Detect
 {
