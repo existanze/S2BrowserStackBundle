@@ -1,3 +1,6 @@
+[submodule "ext"]
+	path = ext
+	url = git://github.com/serbanghita/Mobile-Detect.git
 [submodule "Browserstack/ext"]
 	path = Browserstack/ext
 	url = git://github.com/serbanghita/Mobile-Detect.git
